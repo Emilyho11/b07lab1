@@ -1,1 +1,5 @@
 This is the first b07 lab.
+I made a class Polynomial file that:
+- Adds two polynomials together.
+- Evaluates the polynomial at a certain value.
+- Checks if a given value is a root of that polynomial.
